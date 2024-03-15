@@ -1,6 +1,6 @@
 # Object Classification Using Ensemble Learning
 ## Overview
-This repository houses a detailed summary and implementation of the paper "Object Classification Model Using Ensemble Learning with Gray-Level Co-Occurrence Matrix and Histogram Extraction". It explores the utilization of ensemble learning techniques combined with advanced feature extraction methods to improve the accuracy and reliability of object classification models.
+This repository houses a detailed summary and implementation of the paper "[Object Classification Model Using Ensemble Learning with GrayLevel Co-Occurrence Matrix and Histogram Extraction](https://arxiv.org/ftp/arxiv/papers/2309/2309.13512.pdf)". It explores the utilization of ensemble learning techniques combined with advanced feature extraction methods to improve the accuracy and reliability of object classification models.
 
 ## Paper Summary
 The paper discusses the challenges and importance of object classification in various domains such as medicine, industry, and research, focusing on the complexity introduced by variations in object characteristics. It presents an in-depth analysis of how combining ensemble learning techniques—like Voting Classifiers and Combined Classifiers—with Gray-Level Co-Occurrence Matrix (GLCM) feature extraction and histograms can significantly enhance object classification accuracy.
